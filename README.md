@@ -4,5 +4,5 @@ Python Notebook analyzing Suicide Rate Data from 1985 to 2016.  Includes fairnes
 
 ## Built With
 * Python
-* Python Notebooks
+* iPython Notebook
 * Google Colab
